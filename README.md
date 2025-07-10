@@ -19,7 +19,4 @@ Please cite the paper if you use the codes.
 
 - 2014-07-09: Comments in `LIF_COBN/code_COBN.c`, `LIF_COBN/code_COBN.m`, `LIF_CUBN/code_CUBN.c`, `LIF_CUBN/code_CUBN.m` were enhanced.
 - 2015-07-22: The code to generate the OU process has been added (`LIF_COBN/OU_process.m` and `LIF_CUBN/OU_process.m`) together with the instructions (`LIF_COBN/ReadMe_COBN` and `LIF_CUBN/ReadMe_CUBN`) to set the arguments to generate the data used in some figures of the paper.
-
----
-
-2025-07-09: Converted README to Markdown.
+- 2025-07-09: Converted README to Markdown.
